@@ -1,0 +1,8 @@
+.square-brown{
+	background:#513C2C;
+	padding: 35px;
+	margin: 100px 120px;
+	text-align: center;
+	border-radius: 4px;
+	box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
